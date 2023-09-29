@@ -8,3 +8,6 @@ header{
 .habilidades{
     text-align: justify;
 }
+.separador {
+    height: 20px; /* Ajusta la altura según tus necesidades */
+  }
